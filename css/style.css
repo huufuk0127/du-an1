@@ -1,0 +1,138 @@
+body{
+	margin: 0;
+	padding: 0;
+	font-family: Helvetica, sans-serif;
+}
+.wrapper{
+	height: auto;
+	width: 100%;
+	margin: 0 auto;
+}
+.wrapper_chitiet{
+	height: auto;
+	width: 90%;
+	margin: 0 auto;
+}
+.hinhanh_sp{
+	float: left;
+	width: 40%;
+}
+.chitiet_sp{
+	float: left;
+	width: 48%;
+	margin-left: 0 10px;
+}
+.themgiohang {
+    border: none;
+    background: #d6190a;
+    color: white;
+    padding: 12px;
+    border-radius: 4px;
+    font-weight: bold;
+    cursor: pointer;
+    box-shadow: 1px 1px 10px 1px #c8c6c6;
+    margin-left: 15px;
+}
+.soluong {
+	height: 28px;
+	border: 1px solid #ccc;
+	box-shadow: 0 1px 1px 0 #dad4d4 inset;
+	width: 60px;
+	text-align: center;
+}
+input.themgiohang:hover {
+    color: black;
+}
+.header{
+	height: 60px;
+	width: 100%;
+}
+
+.img{
+	height: 57px;
+    margin-top: 3px;
+    margin-left: 42%;
+    width: 166px;
+}
+.menu{
+	height: 50px;
+	width: 100%;
+	background-color: black;
+}
+ul.listmenu {
+    padding: 0;
+    margin: 0;
+    list-style: none;
+    width: 100%;
+    margin-left: 26%;
+    letter-spacing: 1px;
+}
+ul.listmenu li {
+    float: left;
+    margin: 10px 15px;
+    padding: 6px;
+}
+ul.listmenu li a {
+    text-align: center;
+    text-decoration: none;
+    color: white;
+   	font-weight: bold;
+}
+ul.listmenu li a:hover{
+	color: #e41010;
+}
+#main{
+	height: auto;
+	width: 100%;
+	margin-left: 40px;
+}
+.maincontent{
+	height: auto;
+	width: 100%;
+}
+ul.product {
+    padding: 0;
+    margin: 0;
+    list-style: none;
+    width: 100%;
+}
+ul.product li {
+	border: 1px solid #ddd;
+    width: 20%;
+    margin: 18px;
+    float: left;;
+    height: 380px;
+
+}
+ul.product li img {
+    height: 257px;
+    width: 100%;
+}
+p.title_product {
+    text-align: center;
+    color: black;
+    font-size: 15px;
+    font-weight: bold;
+}
+p.price_product {
+    text-align: center;
+    color: red;
+    font-size: 16px;
+    font-weight: bold;
+}
+ul.product li a {
+    text-decoration: none;
+}
+.clear{
+	clear: both;
+}
+.footer{
+	height: 150px;
+	width: 100%;
+	background-color: black;
+}
+p.footer_left{
+	text-align: center;
+	color: white;
+	padding-top: 70px;
+} 

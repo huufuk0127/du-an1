@@ -1,0 +1,49 @@
+
+.form{
+	width: 990px;
+	height: auto;
+	text-align: center;
+	font-size: 15px;
+	margin-left: 92px;
+}
+ .form th{
+	background-color: #d6190a;
+    color: white;
+    padding: 14px 18px;
+
+}
+.form table,th,tr,td{
+	border: 1px solid #f0dcdc;
+    background-color: #fff6f6;
+}
+.form input[type="text"]{
+	height: 28px;
+	border: 1px solid #ccc;
+	box-shadow: 0 1px 1px 0 #dad4d4 inset;
+	width: 60px;
+    text-align: center;
+	}
+.form a{
+	text-decoration: none;
+	background-color: #d6190a;
+	padding: 10px 10px;
+	color: white;
+	font-weight: bold;
+	border-radius: 5px;
+}
+.form a:hover{
+	color: black;
+}
+.form button{
+	margin-left: 5px;
+    text-align: center;
+    padding: 6px 8px;
+    font-weight: bold;
+    color: white;
+    background-color: #d6190a;
+    border-color: #d6190a;
+    border-radius: 4px;
+}
+.form button:hover{
+	color: black;
+}

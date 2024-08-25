@@ -1,0 +1,1 @@
+<p style="text-align: center;font-size: 18px;">  Cảm ơn bạn đã tin tưởng và đặt hàng của PAM Clothing and More, chúng tôi sẽ liên hệ cho bạn trong thời gian sớm nhất.</p>
